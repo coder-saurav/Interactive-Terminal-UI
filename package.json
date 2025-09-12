@@ -10,7 +10,7 @@
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-resize-observer": "1.1.1",
-    "react-scripts": "3.3.0-next.39",
+    "react-scripts": "5.0.1",
     "xterm": "4.3.0-beta9",
     "xterm-addon-fit": "0.4.0-beta2"
   },
